@@ -40,7 +40,7 @@ You can check out my pinned repositories below or take a look at my repositories
 
 You can reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/in/aman-shrestha-38821915b/)
+- <a href="https://www.linkedin.com/in/aman-shrestha-38821915b/" target="_blank">LinkedIn</a>
 
 Or drop me an email at aman13xrestha@example.com.
 
